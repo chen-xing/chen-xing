@@ -1,4 +1,8 @@
-### Hi there 👋
+![仓库统计信息](https://github-readme-stats.vercel.app/api?username=chen-xing)
+
+![GitHub forks:](https://img.shields.io/github/forks/chen-xing/RgBlog)
+![GitHub stars:](https://img.shields.io/github/stars/chen-xing/RgBlog)
+![GitHub license:](https://img.shields.io/github/license/chen-xing/RgBlog)
 
 <!--
 **chen-xing/chen-xing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
